@@ -5,6 +5,18 @@
       "firebase.json",
       "**/.*",
       "**/node_modules/**"
+    ],
+    "redirects": [
+      {
+        "source": "/kit-kids",
+        "destination": "https://doterra.me/VwFnFc",
+        "type": 301
+      },
+      {
+        "source": "/doTERRA-Stronger",
+        "destination": "https://doterra.me/WFyGK0",
+        "type": 301
+      }
     ]
   }
 }
